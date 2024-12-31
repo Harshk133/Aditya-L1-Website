@@ -52,19 +52,6 @@ Aditya-L1/
 
 ---
 
-## 📸 Screenshots
-
-### 1. Home Page
-![Home Page](isro.jpg)
-
-### 2. Mission Objectives
-![Mission Objectives](satellite3.jfif)
-
-### 3. Mission Significance
-![Mission Significance](satellite5.jfif)
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
 
