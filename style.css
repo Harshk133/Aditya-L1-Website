@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Bungee+Spice&family=Diplomata+SC&family=Edu+SA+Beginner:wght@500&family=Hind:wght@300;400&family=Inconsolata:wght@500;600;700&family=Kablammo&family=Poppins:ital,wght@0,400;1,200&family=Roboto+Condensed:ital@0;1&family=Roboto:ital,wght@1,100&family=Staatliches&display=swap');
+
+*{
+    margin: 0;
+    position: 0;
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    overflow-x: hidden;
+}
+
+center{
+    font-size: 0.8rem;
+}
+
+.div{
+    position: relative;
+    top: 380px;
+    z-index: 1;
+    left: 10px;
+    font-size: 2rem;
+}
+
+.mask1 {
+    -webkit-mask-image: url(indiatext.jfif);
+    mask-image: url(indiatext.jfif);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;    
+}
+
+.drawver{
+    padding: 7px;
+    display: flex;
+}
+
+.info{
+    padding: 7px;
+}
+
+@media (max-width: 822px) {
+    .drawver-compatible{
+        flex-direction: column;
+    }
+
+    .compatible-img-1{
+        width: 100%;
+    }
+
+    .compatible-img-2{
+        width: 100%;
+    }
+
+    .compatible-img-3{
+        width: 100%;
+    }
+
+    .compatible-img-4{
+        width: 100%;
+    }
+
+    .compatible-img-5{
+        width: 100%;
+    }
+
+    .compatible-img-6{
+        width: 100%;
+    }
+
+    .compatible-img-7{
+        width: 100%;
+    }
+}
